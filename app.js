@@ -4,7 +4,6 @@ let usersecondName;
 let userScore = 99.9;
 let isStudent = true;
 let myNull = null;
-let myNaN = NaN;
 let isEmployed = false;
 
 
